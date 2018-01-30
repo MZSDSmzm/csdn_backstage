@@ -9,3 +9,7 @@ csdn_backstage
 
 4.使用前端：bootstrap
 
+5.使用说明：为了减少内存，这里的项目不包含项目格式（jsp的样式、bootstrap样式）以及jar包
+
+6.下载说明：完整项目可以再百度云下载：
+
